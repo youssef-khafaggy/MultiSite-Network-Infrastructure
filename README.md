@@ -27,5 +27,4 @@ A high-availability, fully redundant, and secure multi-site enterprise network i
 - **Documentation Folder** (Contains technical report PDF)
 - **Screenshots Folder** (Network layout and verification pings)
 
-## Author
-Youssef Araby
+
