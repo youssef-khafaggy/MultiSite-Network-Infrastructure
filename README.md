@@ -3,8 +3,6 @@
 ## Overview
 A high-availability, fully redundant, and secure multi-site enterprise network infrastructure designed and simulated using GNS3. This architecture emulates a real-world production environment connecting a Head Office (Cairo) and a Branch Office (Alexandria) through a multi-provider ISP Core network, integrated with a centralized Windows Server.
 
-## Network Topology
-![Network Topology](topology.png)
 
 ## Features
 - Multi-VLAN Segmentation
